@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer, working in Los Angeles currently with a Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles (UCLA), Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology (GT). I'm interested in machine learning, software development and how we can use these tools to improve our lives.
+I'm a software engineer, working in Los Angeles currently with a Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology ([GT](https://www.gatech.edu/)). I'm interested in machine learning, software development and how we can use these tools to improve our lives.
 
 *** 
 
