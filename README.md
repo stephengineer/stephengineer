@@ -23,4 +23,3 @@ I'm a software engineer, working in Los Angeles currently with a Bachelor’s de
 
 * 🖥️  Personal [website](https://stephenwang.me/)
 * 💼  Connect on [LinkedIn](https://www.linkedin.com/in/stephengineer/)
-* 
