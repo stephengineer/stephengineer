@@ -22,7 +22,7 @@ I'm a software engineer and instructor of computer science, working at Los Angel
 - 🌱 I’m currently teaching machine learning and data structure and algorithms in C++ 
 - 👯 I’m looking to collaborate on developing interview code camp
 - 🤔 I’m looking for help with building ML infrastructure
-- 💬 Ask me about computer science related or academic question
+- 💬 Ask me about computer science or academic questions
 - 📫 How to reach me: zhongqi1112@gmail.com
 - 😄 Pronouns: Stephen Wang
 - ⚡ Fun fact: Snowboarding🏂 scuba/freediving🤿 bike racing🏍
