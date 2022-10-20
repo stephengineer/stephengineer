@@ -13,9 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I'm a software engineer and instructor of computer science, working at Los Angeles currently with a Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology ([GT](https://www.gatech.edu/)), Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)). I'm interested in machine learning, software development and how we can use these tools to improve our lives.
+
 -->
 
-I'm a software engineer and instructor of computer science, working at Los Angeles currently with a Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology ([GT](https://www.gatech.edu/)). I'm interested in machine learning, software development and how we can use these tools to improve our lives.
+- 🔭 I’m currently working on machine learning project
+- 🌱 I’m currently teaching machine learning and data structure and algorithms in C++ 
+- 👯 I’m looking to collaborate on developing interview code camp
+- 🤔 I’m looking for help with building ML infrastructure
+- 💬 Ask me about computer science related or academic question
+- 📫 How to reach me: zhongqi1112@gmail.com
+- 😄 Pronouns: Stephen Wang
+- ⚡ Fun fact: Snowboarding🏂, scub diving🤿, bike racing🏍
 
 *** 
 
