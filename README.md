@@ -18,7 +18,7 @@ I'm a software engineer and instructor of computer science, working at Los Angel
 
 -->
 
-- 🔭 I’m currently working on machine learning project
+- 🔭 I’m currently working on machine learning field 
 - 🌱 I’m currently teaching machine learning and data structure and algorithms in C++ 
 - 👯 I’m looking to collaborate on developing interview code camp
 - 🤔 I’m looking for help with building ML infrastructure
