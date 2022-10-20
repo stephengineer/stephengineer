@@ -25,7 +25,7 @@ I'm a software engineer and instructor of computer science, working at Los Angel
 - 💬 Ask me about computer science related or academic question
 - 📫 How to reach me: zhongqi1112@gmail.com
 - 😄 Pronouns: Stephen Wang
-- ⚡ Fun fact: Snowboarding🏂 scub/free diving🤿 bike racing🏍
+- ⚡ Fun fact: Snowboarding🏂 scuba/freediving🤿 bike racing🏍
 
 *** 
 
