@@ -18,13 +18,12 @@ I'm a software engineer and instructor of computer science, working at Los Angel
 
 -->
 
-- 🔭 I’m currently working on machine learning field 
-- 🌱 I’m currently teaching machine learning and data structure and algorithms in C++ 
-- 👯 I’m looking to collaborate on developing interview code camp
-- 🤔 I’m looking for help with building ML infrastructure
-- 💬 Ask me about computer science or academic questions
+- 🔭 I’m currently working as an NLP algorithm Engineer of AGI 
+- 🌱 I’m currently teaching NLP
+- 👯 I’m looking to collaborate on LLMs
+- 🤔 I’m looking for help with building AI agents
+- 💬 Ask me NLP and LLMs
 - 📫 How to reach me: zhongqi1112@gmail.com
-- 😄 Pronouns: Stephen Wang
 - ⚡ Fun fact: Snowboarding🏂 scuba/freediving🤿 bike racing🏍
 
 *** 
