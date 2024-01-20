@@ -17,13 +17,14 @@ I'm a software engineer and instructor of computer science, working at Los Angel
 
 -->
 
-- 🔭 I’m currently working as an NLP algorithm Engineer of AGI 
-- 🌱 I’m currently teaching NLP
-- 👯 I’m looking to collaborate on LLMs
-- 🤔 I’m looking for help with building AI agents
-- 💬 Ask me NLP and LLMs
-- 📫 How to reach me: zhongqi1112@gmail.com
-- ⚡ Fun fact: Snowboarding🏂 scuba/freediving🤿 bike racing🏍
+- 👨🏻‍💻 Machine Learning Engineer of AGI
+- 📚 Educator in Large Language Models (LLMs)
+- 🔭 Seeking collaboration in LLM applications
+- 🤝 In need of assistance with multi-agent frameworks
+- 🤔 Expertise in NLP and LLMs, open for queries
+- 💬 Contact: zhongqi1112@gmail.com
+- ⚡ Enjoy 🏂 🤿 🏍
+
 
 *** 
 
