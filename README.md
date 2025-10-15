@@ -30,5 +30,4 @@ I'm a software engineer and instructor of computer science, working at Los Angel
 
 #### Places to find me :globe_with_meridians:
 
-* 🖥️  Personal [website](https://stephenwang.me/)
-* 💼  Connect on [LinkedIn](https://www.linkedin.com/in/stephengineer/)
+* 🖥️  Personal [website]([https://stephenwang.me/](https://stephengineer.github.io/)
