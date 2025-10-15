@@ -13,4 +13,4 @@
 
 #### Places to find me :globe_with_meridians:
 
-* 🖥️  Personal [website]([https://stephenwang.me/](https://stephengineer.github.io/)
+* 🖥️  [Personal website](https://stephengineer.github.io/)
