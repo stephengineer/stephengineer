@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Stephen 👨🏻‍💻
 
-- 👨🏻‍💻 Machine Learning Research Scientist of AIGC
+- 👨🏻‍💻 Machine Learning Research Scientist of AGI
 - 📚 Educator in Large Language Models
 - 🔭 Seeking collaboration in AIGC applications
 - 🤝 In need of assistance with multi-agent frameworks
